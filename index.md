@@ -8,7 +8,7 @@
     <script src="main.js" defer></script>
 </head>
 <body>
-    <h1>Happy Birthday Muhaimin!</h1>
+    <h1>Happy Birthday Muhaimin! :)</h1>
 
     <div class="countdown">
         <div class="count days">
